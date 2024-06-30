@@ -25,6 +25,15 @@ My interests lie in exploring the potential of **AI**, specifically **LLM models
 
 **While not a developer myself, I have a deep understanding of IT project management, software development methodologies, and am keen on collaborating with talented developers 👨‍💻 to build impactful AI-powered solutions.** 
 
+---
+:mailbox:How to reach me:[![Telegram Badge](https://img.shields.io/badge/Erik4-blue)](https://t.me/Erik4)
+
+###
+
+:hammer_and_wrench: Languages and Tools :
+jira, confluence, python, VS Code, Visio ...
+
+
 <!--
 **erickufk/erickufk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
